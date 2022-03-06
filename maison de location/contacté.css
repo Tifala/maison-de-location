@@ -1,0 +1,57 @@
+body {
+    text-align: center;
+}
+p {
+    height: px;
+  
+
+    
+}
+.marg {
+    margin-right: 60px;
+}
+.mar {
+}
+.bac {
+    color:burlywood;
+    background-color: bisque;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.mes {
+height: 200px;
+width: 400px;
+}
+.name {
+    width: 400Px;
+    margin-left: 15px;
+    height: 30px;
+}
+.bord {
+    background-color:blanchedalmond
+}
+.email {
+    margin-right: 80px;
+}
+.marge1 {
+    height: 20px;
+    margin-top: 36px;
+    color: azure;
+    background-color: rgb(49, 49, 112);
+
+    }
+    @media screen and (max-width: 950px)
+{
+    .name {
+        height: 20px;
+        width: 200px;
+    }
+.mes {
+    height: 20px;
+    width: 200px;
+}
+.email {
+    margin-right: 0%;
+}
+
+quotes: ;
+    }
